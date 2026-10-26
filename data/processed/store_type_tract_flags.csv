@@ -1,0 +1,13 @@
+subregion,area,tracts,LILA_full_service,LILA_any,LA_full_service,LA_any,pop_beyond_full_service,pop_beyond_any,pop_rescued_by_dollar
+Central,urban,102,53,18,85,36,201713,56549,104920
+Central,rural,496,35,0,38,0,55962,138,54868
+North Central,urban,279,84,22,195,72,446853,120498,213997
+North Central,rural,435,50,0,75,0,128155,1299,120145
+Northern,urban,1359,352,50,784,254,1793858,476767,804535
+Northern,rural,1018,36,0,64,0,106081,1598,98512
+South Central,urban,618,196,67,485,254,1301525,473912,415769
+South Central,rural,696,42,0,60,1,79938,1157,73538
+Southern,urban,1183,355,93,896,441,2341971,899705,754634
+Southern,rural,1018,39,0,83,0,119521,1426,116911
+ALL,rural,3663,202,0,320,1,489657,5618,463974
+ALL,urban,3541,1040,250,2445,1057,6085920,2027431,2293855
